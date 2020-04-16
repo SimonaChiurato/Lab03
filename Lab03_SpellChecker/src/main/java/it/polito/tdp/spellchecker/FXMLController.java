@@ -22,6 +22,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.ChoiceBox;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
+import javafx.scene.control.TextField;
 
 public class FXMLController {
 
@@ -40,6 +41,7 @@ public class FXMLController {
 	@FXML
 	private ChoiceBox<String> choiceBox;
 
+ 
 	@FXML
 	private TextArea TextInput;
 
